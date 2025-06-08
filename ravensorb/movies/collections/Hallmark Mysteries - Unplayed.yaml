@@ -1,7 +1,7 @@
 collections:
-  Hallmark Mystries (New):
+  Hallmark Mysteries (New):
     smart_label:
       sort_by: release.desc
       all:
-        label: KOMETA-U-Hallmark Mystries
+        label: KOMETA-U-Hallmark Mysteries
         unplayed: true

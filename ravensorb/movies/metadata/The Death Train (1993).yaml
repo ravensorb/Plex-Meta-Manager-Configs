@@ -1,13 +1,14 @@
 metadata:
-    "The Death Train (1993)":
+    "Detonator (1993)":
         year: 1993
-        title: "The Death Train"
-        sort_title: "Death Train"
+        title: "Detonator"
+        original_title: "The Death Train"
+        sort_title: "Detonator"
         match:
-          mapping_id: 463241
+          mapping_id: 20435
         # url_poster: https://theposterdb.com/api/assets/
-        # IDs: tmdb://463241
+        # IDs: tmdb://20435
         # tpdb: https://theposterdb.com/search/advanced/results?term=The%20Death%20Train&category=Movies&year_filter=equals&yone=1993&tmdb_id=463241
-        # tmdb: https://www.themoviedb.org/movie/463241
+        # tmdb: https://www.themoviedb.org/movie/20435
         # tvdb: 
         # imdb: 
